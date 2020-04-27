@@ -1,4 +1,5 @@
 # Spoiler Plugin [![Build Status](https://api.travis-ci.com/moussetc/mattermost-plugin-spoiler.svg?branch=master)](https://travis-ci.com/moussetc/mattermost-plugin-spoiler)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhong4rc%2Fmattermost-plugin-spoiler.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhong4rc%2Fmattermost-plugin-spoiler?ref=badge_shield)
 
 This plugin creates a slash command to display spoiler messages in a non-spoiling way.
 
@@ -58,3 +59,7 @@ and use this command:
 ```
 make deploy
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhong4rc%2Fmattermost-plugin-spoiler.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhong4rc%2Fmattermost-plugin-spoiler?ref=badge_large)
